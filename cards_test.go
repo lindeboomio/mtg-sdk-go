@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	. "github.com/smartystreets/goconvey/convey"
-	"gopkg.in/jarcoal/httpmock.v1"
+	httpmock "gopkg.in/lindeboomio/httpmock.v1"
 )
 
 func Test_FetchCards(t *testing.T) {
