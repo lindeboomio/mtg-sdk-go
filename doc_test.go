@@ -1,7 +1,7 @@
 package mtg_test
 
 import (
-	"github.com/MagicTheGathering/mtg-sdk-go"
+	"github.com/lindeboomio/mtg-sdk-go"
 	"log"
 )
 
