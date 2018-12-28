@@ -7,7 +7,7 @@
 
 This is the Magic: The Gathering SDK Go implementation. It is a wrapper around the MTG API of [magicthegathering.io](http://magicthegathering.io/).
 
-*Note:* This is a fork of the original project at [https://github.com/MagicTheGathering/mtg-sdk-go](https://github.com/MagicTheGathering/mtg-sdk-go), created to deal with the ['Little Girl' parsing issue](https://github.com/MagicTheGathering/mtg-sdk-go/issues/2).
+**Note:** This is a fork of the original project at [https://github.com/MagicTheGathering/mtg-sdk-go](https://github.com/MagicTheGathering/mtg-sdk-go), created to deal with the ['Little Girl' parsing issue](https://github.com/MagicTheGathering/mtg-sdk-go/issues/2).
 
 ## Installation
 
