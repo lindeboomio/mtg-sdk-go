@@ -1,7 +1,7 @@
 # Magic: The Gathering SDK
 
 [![Build Status](https://travis-ci.org/lindeboomio/mtg-sdk-go.svg?branch=master)](https://travis-ci.org/lindeboomio/mtg-sdk-go)
-[![Coverage Status](https://coveralls.io/repos/github/lindeboomio/mtg-sdk-go/badge.svg?branch=master)](https://coveralls.io/lindeboomio/mtg-sdk-go?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/lindeboomio/mtg-sdk-go/badge.svg?branch=master)](https://coveralls.io/github/lindeboomio/mtg-sdk-go?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/lindeboomio/mtg-sdk-go)](https://goreportcard.com/report/github.com/lindeboomio/mtg-sdk-go)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lindeboomio/mtg-sdk-go/blob/master/LICENSE)
 
